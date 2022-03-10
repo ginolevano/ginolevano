@@ -1,6 +1,7 @@
 Hi Here👋, I'm Gino Levano
 <br>
 A passionate frontend developer from Peru
+<br>
 📫 How to reach me hello@ginolevano.com
 
 
