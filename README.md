@@ -3,7 +3,7 @@
 
 
 <br>
-🌱 A passionate Front-End Developer & UX/UI Design from Peru 🦙
+🌱 A passionate Front-End Developer & UX/UI Design from Perú 🦙
 
 <br>
 
