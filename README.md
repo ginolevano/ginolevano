@@ -1,5 +1,5 @@
-h1 align="center">Hi Here👋, I'm Gino Levano</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+##Hi Here👋, I'm Gino Levano
+A passionate frontend developer from Peru
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
