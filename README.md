@@ -1,4 +1,4 @@
-##Hi Here👋, I'm Gino Levano
+Hi Here👋, I'm Gino Levano
 A passionate frontend developer from Peru
 
 
