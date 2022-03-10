@@ -6,7 +6,7 @@
 
 <br>
 
-<p> font-weight=600 A passionate frontend developer from Peru
+<p> "font-weight=600" A passionate frontend developer from Peru
  </p>
 
 <br>
