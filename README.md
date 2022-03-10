@@ -5,7 +5,10 @@
 
 
 <br>
-A passionate frontend developer from Peru
+
+<p> A passionate frontend developer from Peru
+ </p>
+
 <br>
 
 >📫 How to reach me hello@ginolevano.com
