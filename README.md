@@ -6,7 +6,9 @@
 
 <br>
 
-<p font-weight=900 font-size=".5em" > A passionate frontend developer from Peru 🦙
+<p font-weight=900 font-size=".5em" >
+ 🌈 A passionate frontend developer from Peru 🦙
+ 👀 I’m interested in Front-End Developer & UX/UI Design
  </p>
 
 <br>
