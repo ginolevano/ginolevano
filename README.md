@@ -6,7 +6,7 @@
 
 <br>
 
-<p font-weight=900 font-size=".5em" > A passionate frontend developer from Peru
+<p font-weight=900 font-size=".5em" > A passionate frontend developer from Peru 🦙
  </p>
 
 <br>
