@@ -2,10 +2,10 @@
 ## Hi There👋, I'm Gino Levano
 
 
-<br>
-🌱 A passionate Front-End Developer & UX/UI Design from Perú 🦙
 
-<br>
+🌱 A passionate Frontend Developer & UX/UI Design from Perú 🦙
+
+
 
  📫 How to reach me hello@ginolevano.com
 
